@@ -469,7 +469,6 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#disqus_thread">
             <span class="sr-only">Chat</span>
             <span class="glyphicon glyphicon-heart-empty"></span>
           </button>
@@ -509,19 +508,7 @@
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
   </nav>
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'combotips';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
 <span class="secondary-navbar-bottom">
   <span id="bitcoin-donate-msg"><span class="support-tag">Support</span> the project <span class="glyphicon glyphicon-arrow-right"></span></span>
   <a class="coinbase-button" data-code="df278ca7d92b2380ca3d3757ed5f6132" data-button-style="donation_small" href="https://coinbase.com/checkouts/df278ca7d92b2380ca3d3757ed5f6132">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
