@@ -529,6 +529,7 @@
 <script src="/ext/easeljs-0.7.1.min.js"></script>
 <script src="/ext/main.js"></script>
 <script src="/ext/optimizer.js"></script>
+<script src="/ext/inject.js"></script>
 </body>
 </html>
 <!-- AGPLv3
